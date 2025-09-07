@@ -5,7 +5,7 @@
 I enjoy working across the stack — from low-level optimizations to modern application development.  
 
 ## ⚡ Technologies I work with
-- ⚙️ **Systems & Performance:** C, C++, CUDA  
+- ⚙️ **Systems & Performance:** C, C++, Rust, CUDA, OpenMP, Intel TBB  
 - 🖥️ **Desktop Apps:** C#, WPF, EF Core, SQLite  
 - 🌐 **Web & APIs:** ASP.NET Core, REST, Python  
 - 📊 **Data & Beyond:** Python scripting, DB management, optimization  
