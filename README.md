@@ -1,16 +1,15 @@
-## Hi there 👋
+### Hi, i'm Erfan!
+## 🚀 Software Engineer | Systems & Application Developer  
 
-<!--
-**Erfank96/ErfanK96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Passionate about building high-performance applications and solving complex problems.  
+I enjoy working across the stack — from low-level optimizations to modern application development.  
 
-Here are some ideas to get you started:
+## ⚡ Technologies I work with
+- ⚙️ **Systems & Performance:** C, C++, CUDA  
+- 🖥️ **Desktop Apps:** C#, WPF, EF Core, SQLite  
+- 🌐 **Web & APIs:** ASP.NET Core, REST, Python  
+- 📊 **Data & Beyond:** Python scripting, DB management, optimization  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 Always learning, optimizing, and experimenting with new technologies.  
+🛠️ Open to collaboration on projects involving **HPC, imaging, simulations, or modern app development**.  
+[![Erfan's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
