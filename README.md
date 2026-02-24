@@ -12,4 +12,3 @@ I enjoy working across the stack — from low-level optimizations to modern appl
 
 🔍 Always learning, optimizing, and experimenting with new technologies.  
 🛠️ Open to collaboration on projects involving **HPC, imaging, simulations, or modern app development**.  
-[![Erfan's GitHub stats](https://github-readme-stats.vercel.app/api?username=ErfanK96&show_icons=true&theme=radical)](https://github.com/ErfanK96/github-readme-stats)
